@@ -1,6 +1,6 @@
 import {Router} from 'express';
 import AutenticacaoService from '../services/AutenticacaoService';
-
+//teste api
 const autenticacaoRouter = Router();
 
 
