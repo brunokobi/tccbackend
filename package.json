@@ -17,6 +17,7 @@
     "date-fns": "^2.16.0",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
+    "heroku": "^7.54.0",
     "jsonwebtoken": "^8.5.1",
     "multer": "^1.4.2",
     "pg": "^8.3.3",
